@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head><link rel="stylesheet"href="c.css"/></head>
+<body><font face="Calibri">
+<center><h1> Application for permission For Dating my Daughter </h1></center>
+<br><b>Note:</b>Form is to be completed atleast before 21 days of dating.
+<br><form action="www.post.html" id="Appform"><fieldset id="first"><legend><b>Personal Details</b></legend>
+<p>Name:<input type="text" size=15 name="name" placeholder="Enter your name here"> </p>
+<p>Address:<input type="text" size=15 name="address" placeholder="Enter your address">
+</p><p id="first">Email:<input type="text" name="email" size="15" placeholder="Enter your Email ID"></p>
+<p>Mobile Number:<input type="number"name="phno"placeholder="Enter your Mobile number"></p>
+<p>IQ:<input type="number" name="iq" placeholder="Enter IQ"></p>
+<p>Gender</p><input type="radio" value="male" name="gender">Male<br>
+<input type="radio" value="female" name="gender">Female<br>
+<input type="radio" value="other" name="gender">Other<br>
+<p>Date of proposed Outing:<input type="date" name="date of propose"></fieldset><br>
+<fieldset><p>Check All that apply:</p>
+<input type="checkbox" name="conditions" value="tattoo">I have tattoos and/or piercings<br>
+<input type="checkbox" name="condition" value="2 year more than daughter">I am 2 years or more than my daughter<br>
+<input type="checkbox" name="condition" value="panel van">I have a panel van or V8ute<br>
+<input type="checkbox" name="condition" value="work full">I work Full time<br>
+<input type="checkbox" name="condition" value="rich">My parents are rich<br>
+<input type="checkbox" name="condition" value="well lit public location">Is the date on a well lit public location</fieldset><br>
+<fieldset>Political Pursuation:<select name="political pursuation"><option value="BJP">BJP</option><option value="Congress">Congress</option><option value="AAP">AAP</option><option value="Samajwadi Party">Samaajwadi Party</option>
+</select>&nbsp&nbspEducational Qualification:<select name="education"><option value="High School/Intermediate">High School/Intermediate</option><option value="Graduated">Graduated</option>
+<option value="Post Graduated">Post Graduated</option><option value="None">None</option></select></fieldset><br>
+<fieldset><legend><b>Essay Section</b></legend><p>In 50 words or more explain why you want to date my daughter?</p><textarea size="30" placeholder="Enter your answer here"></textarea><p>Please upload contact details for 2 references</p><br><textarea size="30" placeholder="Upload contact details here"></textarea><p>
+Upload Police Clearance Certificate, Bank Statement and Medical Certifiates here:&nbsp<button><img src="folder-upload-fill-icon-design-260nw-2072699309.jpg" height="50 width="50"></button></fieldset><p>Submit Your Application &nbsp<input type="Submit" name="application submit" value="Submit the Application"></p>
+
